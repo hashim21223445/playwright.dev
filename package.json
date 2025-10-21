@@ -34,9 +34,9 @@
     "serve": "docusaurus serve"
   },
   "dependencies": {
-    "@docusaurus/core": "3.4.0",
+    "@docusaurus/core": "3.9.0",
     "@docusaurus/plugin-content-docs": "3.4.0",
-    "@docusaurus/preset-classic": "3.4.0",
+    "@docusaurus/preset-classic": "3.9.0",
     "@docusaurus/types": "3.4.0",
     "clsx": "^2.1.1",
     "react": "^18.3.1",
