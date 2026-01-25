@@ -68,7 +68,7 @@
     "chokidar": "^3.6.0",
     "concurrently": "^8.2.2",
     "http-server": "^14.1.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "rimraf": "^6.0.1",
     "swc-loader": "^0.2.6",
     "typescript": "^5.5.3"
